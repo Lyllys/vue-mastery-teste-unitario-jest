@@ -1,29 +1,50 @@
-# unit-testing-vue
+<h1 align="center">🧪 TESTE UNITÁRIO COM JEST</h1>
 
-## Project setup
-```
-npm install
-```
+<br />
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<p align="center">
+ <a href="#sobre">Sobre</a> •
+ <a href="#rodarProjeto">Como rodar o projeto</a> •
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#aprendizado">O que eu pude praticar</a>  
+</p>
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<br />
 
-### Run your unit tests
-```
-npm run test:unit
-```
+<h2 id="sobre">💡 Sobre</h2>
 
-### Lints and fixes files
-```
-npm run lint
-```
+Esta aplicação foi desenvolvida durante a realizaçao do curso "[Unit Testing Vue 3](https://www.vuemastery.com/courses/unit-testing-vue-3/what-to-test-vue-3)" da Vue Mastery.
+ 
+<br />
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<h2 id="rodarProjeto">▶ Como rodar o projeto</h2>
+Para clonar o projeto e rodá-lo localmente você pode seguir o passo abaixo:
+
+1. `git clone https://github.com/Lyllys/vue-mastery-teste-unitario-jest.git`
+2. `npm install`
+3. `npm run serve` - para rodar a aplicação
+4. `npm run test:unit` - para rodar os testes
+
+<br />
+
+<h2 id="tecnologias">🚀 Tecnologias</h2>
+
+* [HTML 5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+
+* [CSS 3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+* [VUE 3](https://vuejs.org/)
+
+* [JEST](https://jestjs.io/pt-BR/)
+
+<br />
+
+<h2 id="aprendizado">💻 O que eu pude praticar</h2>
+
+* Criação de testes unitários para componentes Vue. 
+
+<br />
+
+Made with 💜 by Lyllys Galhardo. 👋🏽 [Get in touch!](https://www.linkedin.com/in/lyllysgalhardo)
